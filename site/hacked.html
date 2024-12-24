@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>당신의 개인정보</title>
+    <style>
+        :root {
+            color-scheme: dark light;
+        }
+
+        * {
+            margin: 0;
+        }
+
+        body {
+            height: 100dvh;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        #id, #pw {
+            opacity: 50%;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+<h1>당신의 네이버 계정</h1>
+<p id="id">아이디: </p>
+<p id="pw">비밀번호: </p>
+<script>
+    if (!localStorage.getItem("id")) {
+        document.getElementById("id").textContent = "당신의 계정은 털리지 않았어요";
+        document.getElementById("pw").remove();
+    } else {
+        document.getElementById("id").textContent = `아이디: ${localStorage.getItem('id')}`;
+        document.getElementById("pw").textContent = `비밀번호: ${localStorage.getItem('pw')}`;
+        localStorage.clear();
+        const p = document.createElement('p');
+        p.textContent = "당신의 계정 정보는 당신의 기기 이외에 저장되지 않았으며 방금 삭제되었습니다.";
+        document.body.appendChild(p);
+    }
+</script>
+</body>
+</html>
