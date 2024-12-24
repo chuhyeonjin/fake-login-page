@@ -1,0 +1,87 @@
+<svg version="1.1" baseProfile="full" width="316.0" height="336.0" viewBox="0 0 316 336" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+	<desc >[/forms.html] 리다이렉트 -&gt; [/login.html] 로그인 -&gt; [/after-login] 리다이렉트 -&gt; [설정된 사이트]
+	
+	[/hacked.html | 해킹 사실 확인]</desc>
+	<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+		<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+			<g stroke="transparent" fill="transparent">
+				<rect x="0.0" y="0.0" height="336.0" width="316.0" stroke="none"></rect>
+			</g>
+			<g transform="translate(8, 8)" fill="#33322E">
+				<g transform="translate(20, 20)" fill="#33322E" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal">
+					<text x="62.5" y="68.0" stroke="none">리다이렉트</text>
+					<path d="M54.5 48.0 L54.5 84 L54.5 97.33333333333333 L54.5 97.3 " fill="none"></path>
+					<path d="M49.2 90.7 L54.5 97.3 L59.8 90.7 L54.5 104.0 Z"></path>
+					<text x="62.5" y="156.0" stroke="none">로그인</text>
+					<path d="M54.5 136.0 L54.5 156 L54.5 169.33333333333334 L54.5 169.3 " fill="none"></path>
+					<path d="M49.2 162.7 L54.5 169.3 L59.8 162.7 L54.5 176.0 Z"></path>
+					<text x="62.5" y="228.0" stroke="none">리다이렉트</text>
+					<path d="M54.5 208.0 L54.5 228 L54.5 241.33333333333334 L54.5 241.3 " fill="none"></path>
+					<path d="M49.2 234.7 L54.5 241.3 L59.8 234.7 L54.5 248.0 Z"></path>
+					<g data-name="/forms.html">
+						<g fill="#eee8d5" stroke="#33322E" data-name="/forms.html">
+							<rect x="3.0" y="16.0" height="32.0" width="103.0" data-name="/forms.html"></rect>
+						</g>
+						<g transform="translate(3, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="/forms.html" data-compartment="0">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="/forms.html" data-compartment="0">
+								<text x="43.5" y="14.1" stroke="none" text-anchor="middle" data-name="/forms.html" data-compartment="0">/forms.html</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="/login.html">
+						<g fill="#eee8d5" stroke="#33322E" data-name="/login.html">
+							<rect x="6.0" y="104.0" height="32.0" width="97.0" data-name="/login.html"></rect>
+						</g>
+						<g transform="translate(6, 104)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="/login.html" data-compartment="0">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="/login.html" data-compartment="0">
+								<text x="40.5" y="14.1" stroke="none" text-anchor="middle" data-name="/login.html" data-compartment="0">/login.html</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="/after-login">
+						<g fill="#eee8d5" stroke="#33322E" data-name="/after-login">
+							<rect x="5.0" y="176.0" height="32.0" width="99.0" data-name="/after-login"></rect>
+						</g>
+						<g transform="translate(5, 176)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="/after-login" data-compartment="0">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="/after-login" data-compartment="0">
+								<text x="41.5" y="14.1" stroke="none" text-anchor="middle" data-name="/after-login" data-compartment="0">/after-login</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="설정된 사이트">
+						<g fill="#eee8d5" stroke="#33322E" data-name="설정된 사이트">
+							<rect x="0.0" y="248.0" height="32.0" width="109.0" data-name="설정된 사이트"></rect>
+						</g>
+						<g transform="translate(0, 248)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="설정된 사이트" data-compartment="0">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="설정된 사이트" data-compartment="0">
+								<text x="46.5" y="14.1" stroke="none" text-anchor="middle" data-name="설정된 사이트" data-compartment="0">설정된 사이트</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="/hacked.html">
+						<g fill="#eee8d5" stroke="#33322E" data-name="/hacked.html">
+							<rect x="146.0" y="0.0" height="64.0" width="114.0" data-name="/hacked.html"></rect>
+							<path d="M146.0 32.0 L260.0 32.0" fill="none" data-name="/hacked.html"></path>
+						</g>
+						<g transform="translate(146, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="/hacked.html" data-compartment="0">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="/hacked.html" data-compartment="0">
+								<text x="49.0" y="14.1" stroke="none" text-anchor="middle" data-name="/hacked.html" data-compartment="0">/hacked.html</text>
+								
+							</g>
+						</g>
+						<g transform="translate(146, 32)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="/hacked.html" data-compartment="1">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="/hacked.html" data-compartment="1">
+								<text x="0.0" y="14.1" stroke="none" data-name="/hacked.html" data-compartment="1">해킹 사실 확인</text>
+								
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
